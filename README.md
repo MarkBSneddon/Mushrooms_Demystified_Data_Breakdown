@@ -11,7 +11,6 @@ This project aims to convert the book "Mushrooms Demystified" by David Arora int
 - [API Access](#api-access)
 - [Conversion Process](#conversion-process)
 - [Dataset Format](#dataset-format)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -52,9 +51,33 @@ git clone https://github.com/MarkBSneddon/Mushrooms_Demystified_Data_Breakdown.g
 cd Mushrooms_Demystified_Data_Breakdown
 ```
 
-3. Install the required Python dependencies:
+3. Install the required Python dependencies (TODO add requirements.txt):
 
 ```
 pip install -r requirements.txt
 ```
+
+## API Access
+
+To access the ChatGPT API, you need an OpenAI account and an API key. Follow these steps to get started:
+
+1. Sign up or log in to your OpenAI account at [https://openai.com](https://openai.com).
+
+2. Navigate to the API section and follow the instructions to obtain your API key.
+
+TODO: Document how to use the API key
+
+## Conversion Process
+
+TODO: Document conversion process
+
+## Dataset Format
+
+TODO: Create dataset using either json, csv, or another set of data.
+
+## License
+
+TODO: Pick a license
+
+
 
