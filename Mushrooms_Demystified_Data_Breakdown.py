@@ -1,6 +1,6 @@
 import openai
 import json
-import openai
+import tiktoken
 
 def loadBook(path):
     # loads the book "Mushrooms Demystified" and returns it as a variable
@@ -10,6 +10,15 @@ def loadBook(path):
         bookText = file.read()
     return bookText
 
+
+'''
+def countTokens(text):
+    # Count the total ammount of OpenAI tokens needed and print to the user
+    token_count = tiktoken.count_tokens(text)
+    print("Token count: ", token_count)
+
+    return
+'''
 '''
 
 #####################

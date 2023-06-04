@@ -1,5 +1,6 @@
 import os
 import argparse
+import tiktoken
 from Mushrooms_Demystified_Data_Breakdown import *
 
 def getArgumentsFromUser():
@@ -29,6 +30,9 @@ def main():
     bookData = loadBook("data/mushrooms_data_only.txt")
     print("Book data successfully loaded.\n")
 
+    # count tokens needed for OpenAI API
+    # countTokens(bookData)
+
     # prepare OpenAI usage
     max_tokens = 4096  # Maximum number of tokens per API call
     stop_sequence = "\n\n"  # Sequence to stop the response at
@@ -43,7 +47,11 @@ def main():
             temperature=0,
             max_tokens=max_tokens,
             stop=stop_sequence,
+            log_level="token_count"
         )
+
+        # extract token usage and present it to the user
+        print("Token count: " + str(response['usage']['total_tokns']))
     
         # Extract the relevant information from the response
         generated_text = response.choices[0].text.strip()

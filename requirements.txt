@@ -1,3 +1,4 @@
 openai
 argparse
 json5
+tiktoken
