@@ -1,9 +1,20 @@
 import openai
-import openpyxl
-from openpyxl import Workbook
+import json
+import openai
 
-## Your API Key
-openai.api_key = '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'
+def loadBook(path):
+    # loads the book "Mushrooms Demystified" and returns it as a variable
+    # assuming book in a txt format
+
+    with open(path, "r") as file:
+        bookText = file.read()
+    return bookText
+
+'''
+
+#####################
+# Mark's Old Code, keep on hand until we have an adequate replacement #
+#####################
 
 def ask_question(question):
     response = openai.Completion.create(
@@ -46,3 +57,5 @@ for i, question in enumerate(questions):
 
 ## Save the workbook to an Excel file
 #workbook.save("answers.xlsx")
+
+'''

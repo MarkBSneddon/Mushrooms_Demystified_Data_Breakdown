@@ -1,5 +1,6 @@
 import os
 import argparse
+from Mushrooms_Demystified_Data_Breakdown import *
 
 def getArgumentsFromUser():
     parser = argparse.ArgumentParser(description="Convert Mushrooms Demystified book into a dataset")
@@ -14,8 +15,15 @@ def getArgumentsFromUser():
         exit()
 
 def main():
+
+    # prepare API key
     args = getArgumentsFromUser()
-    print("Your API Key is: " + str(args.api_key))
+    print("Your API Key is: " + str(args.api_key) + "\n")
+
+    # prepare book for data parsing
+    # using default path as shown in the Git Repo
+    bookData = loadBook("data/epdf.pub_mushrooms-demystified.txt")
+    print("Book data successfully loaded.\n")
 
     return
 
