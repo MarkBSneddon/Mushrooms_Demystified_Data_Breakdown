@@ -77,7 +77,17 @@ TODO: Create dataset using either json, csv, or another set of data.
 
 ## License
 
-TODO: Pick a license
+This project is licesed under the GNU GENERAL PUBLIC LICENSE.
+
+- Distribution: The GPL grants users the freedom to distribute copies of the software, whether in its original or modified form, either for free or for a fee. When distributing the software, users must provide the source code or make it readily available.
+
+- Modification: The GPL allows users to modify the software to suit their needs. However, if they distribute the modified version, they must also make the source code available and license it under the GPL.
+
+- Copyleft: The copyleft provision of the GPL ensures that any derivative works or modifications of GPL-licensed software must also be licensed under the GPL. This ensures that the software remains open and free.
+
+- Commercial Use: The GPL does not restrict commercial use of the software. Companies can use, modify, and distribute GPL-licensed software for commercial purposes. However, they must still comply with the requirements of the GPL, such as providing the source code.
+
+- Compatibility: The GPL is not compatible with all licenses. If you combine GPL-licensed software with software under a different license, the entire combined work must be licensed under the GPL.
 
 
 
