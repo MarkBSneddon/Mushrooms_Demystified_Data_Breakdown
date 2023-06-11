@@ -1,0 +1,45 @@
+[
+{
+  "Genus": ["Lactarius"],
+  "Species": ["deliciosus"],
+  "Common_Name": ["Delicious", "Milk", "Cap"],
+  "Group?": ["No"],
+  "CAP": ["5-16", "cm", "broad", "convex", "depressed", "center", "inrolled", "margin", "young", "depressed", "shallowly", "funnel-shaped", "surface", "viscid", "moist", "dry", "smooth", "zoned", "color", "variable", "dull", "orange", "carrot-orange", "orange-brown", "blotched", "entirely", "green", "fading", "age", "dry", "weather", "brownish", "gray", "dull", "greenish-gray", "yellowish", "margin", "inrolled", "young"],
+  "Flesh": ["thick", "brittle", "orange", "yellowish", "greenish", "taste", "mild", "slightly", "bitter"],
+  "LATEX": ["scanty", "bright", "carrot-orange", "forms", "slowly", "staining", "dark", "red", "exposed", "eventually", "staining", "wounded", "aged", "tissue", "greenish", "5", "hours"],
+  "GILLS": ["typically", "bright", "dull", "orange", "varying", "yellowish", "orange-buff", "greenish", "wounded", "adnate", "decurrent", "close"],
+  "STALK": ["2-7", "cm", "long", "1-2.5", "cm", "thick", "equal", "narrowed", "base", "soon", "dry", "scrobiculate", "rigid", "hollow", "inage", "frequently", "maggot-riddled", "colored", "cap", "paler"],
+  "SPORE_PRINT": ["creamy", "yellowish-buff", "spores", "7-11", "x", "6-8", "microns", "broadly", "elliptical", "nearly", "round", "amyloid", "ridges"],
+  "HABITAT": ["Scattered", "gregarious", "troops", "conifers", "pine", "spruce", "common", "widely", "distributed", "abundant", "coastal", "pine", "forests", "late", "fall", "winter", "generally", "major", "crop", "look-alike", "L.", "rubrilacteus"],
+  "EDIBILITY": ["Edible", "delicious", "Several", "varieties", "forms", "occur", "apparently", "better", "others", "Special", "treatment", "required", "overcome", "grainy", "texture", "latent", "bitterness", "abundance", "distinctiveness", "however", "make", "experimentation", "worthwhile", "sources", "recommend", "slow", "cooking", "e.g.", "baked", "casserole", "insist", "cooked", "rapidly", "frying", "pan", "little", "butter", "popular", "Europe", "Russians", "fanatical", "especially", "salted"]
+},
+{
+  "Genus": ["Lactarius"],
+  "Species": ["rubrilacteus"],
+  "Common_Name": ["Bleeding Milk Cap"],
+  "Group?": ["No"],
+  "CAP": ["4-14 cm broad", "broadly convex", "depressed center", "inrolled margin", "viscid when moist", "smooth", "reddish-brown", "orange", "orange-brown", "tan", "concentrically zoned", "duller", "greenish-stained"],
+  "Flesh": ["thick", "brittle", "brownish", "buff", "reddish", "mild taste", "slightly bitter taste"],
+  "LATEX": ["scanty", "dark red", "occasionally orange-red", "slowly staining", "greenish"],
+  "GILLS": ["adnate", "slightly decurrent", "close", "reddish", "dull purplish-red", "tan", "dark reddish sheen", "greenish"],
+  "STALK": ["2-6 cm long", "1-2.5 cm thick", "equal", "narrowed below", "firm", "rigid", "hollow", "colored like cap", "paler", "scrobiculate"],
+  "SPORE_PRINT": ["pale yellowish", "buff", "spores 7.5-10 x 6-8 microns", "broadly elliptical", "nearly round", "amyloid ridges"],
+  "HABITAT": ["Scattered", "large troops", "conifers", "Douglas-fir", "abundant in fall", "early winter", "pines pre-dominate", "L. deliciosus", "pine and Douglas-fir", "milk caps mingle", "Europe", "L. sanguifluus", "mycorrhizal with pine"],
+  "EDIBILITY": ["Edible", "granular texture", "pleasing to everyone", "usually better", "L. deliciosus"]
+},
+{
+  "Genus": ["Lactarius"],
+  "Species": ["indigo"],
+  "Common_Name": ["Indigo Milk Cap"],
+  "Group?": ["No"],
+  "CAP": ["4-15 cm broad", "convex", "centrally depressed", "inrolled margin", "young", "depressed in age", "smooth", "viscid", "moist", "dry", "indigo-blue", "fading", "grayish-blue", "silvery-blue", "greenish stains", "often zoned concentrically"],
+  "Flesh": ["pallid", "bluish", "brittle", "slowly staining greenish", "taste mild", "slightly bitter-acrid"],
+  "LATEX": ["indigo-blue", "bright dark blue", "scanty", "slowly staining wounded tissue greenish"],
+  "GILLS": ["adnate", "slightly decurrent", "close", "indigo-blue", "paler in age"],
+  "STALK": ["2-6 cm long", "1-2.5 cm thick", "indigo-blue", "silvery-or grayish-blue", "equal", "narrowed at base", "rigid", "hollow in age", "soon dry"],
+  "SPORE_PRINT": ["creamy-yellowish"],
+  "spores": ["7-9 x 5.5-7.5 microns", "elliptical to nearly round", "amyloid warts", "ridges"],
+  "HABITAT": ["Scattered", "gregarious", "summer", "fall", "oak and pine woods", "southern", "eastern North America", "common", "Gulf Coast", "Mexico", "found in Arizona under ponderosa pine", "southern California", "welcome addition", "fungus flora"],
+  "EDIBILITY": ["Edible", "very good-superior", "greenish-staining milk caps", "L. deliciosus", "Mexico", "sold in farmer's markets"]
+}
+]
