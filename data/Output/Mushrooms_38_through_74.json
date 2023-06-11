@@ -1,0 +1,1304 @@
+[{
+  "Genus": ["Russula"],
+  "Species": ["gracilis"],
+  "Common_Name": ["N/A"],
+  "Group?": ["Yes"],
+  "CAP": {
+    "Size": ["2-8 cm"],
+    "Shape": ["convex", "plane", "slightly depressed"],
+    "Surface": ["smooth"],
+    "Moistness": ["viscid"],
+    "Color": ["pink", "greenish", "grayish-olive", "brownish-black", "pale", "deep pink", "violet-tinged"],
+    "Margin": ["striate", "old age"]
+  },
+  "Flesh": {
+    "Texture": ["fragile"],
+    "Color": ["white"]
+  },
+  "Taste": ["acrid"],
+  "GILLS": {
+    "Attachment": ["adnate", "slightly decurrent"],
+    "Color": ["whitish", "creamy", "tinged yellow"],
+    "Spacing": ["close"]
+  },
+  "STALK": {
+    "Length": ["3.5-8 cm"],
+    "Thickness": ["0.5-1.5 cm"],
+    "Shape": ["equal", "slightly thicker below"],
+    "Texture": ["soft", "fragile"],
+    "Color": ["whitish", "tinged pink", "grayish-rose"]
+  },
+  "SPORE_PRINT": {
+    "Color": ["creamy", "pale ochre"],
+    "Spore_Size": ["7-9 microns", "5-7 microns"],
+    "Shape": ["elliptical"],
+    "Warts": ["isolated amyloid warts"]
+  },
+  "HABITAT": ["Widely scattered", "gregarious", "ground", "woods", "birch", "Douglas-fir", "fall", "winter"],
+  "EDIBILITY": ["Not edible", "acrid taste"]
+},
+
+{
+  "Genus": ["Russula"],
+  "Species": ["rosacea"],
+  "Common_Name": ["Rosy Russula"],
+  "Group?": ["No"],
+  "CAP": {
+    "Size": ["3-12", "cm", "broad", "convex", "plane", "depressed"],
+    "Surface": ["viscid", "moist", "smooth", "dark red", "bright red", "fading", "old age", "pink", "blotched", "white"]
+  },
+  "Flesh": {
+    "Color": ["white"],
+    "Texture": ["firm"],
+    "Brittleness": ["brittle"],
+    "Odor": ["mild"],
+    "Taste": ["acrid"]
+  },
+  "GILLS": {
+    "Color": ["creamy-white", "pale yellow"],
+    "Attachment": ["adnate", "decurrent"],
+    "Spacing": ["close"],
+    "Texture": ["brittle"]
+  },
+  "STALK": {
+    "Length": ["4-10", "cm"],
+    "Thickness": ["1-2.5", "cm"],
+    "Base": ["equal", "narrowed base"],
+    "Surface": ["smooth", "dry", "pink", "red", "blush of red"],
+    "Hollow": ["age"]
+  },
+  "SPORE_PRINT": {
+    "Color": ["pale yellow"],
+    "Spores": ["7-9x", "6-8", "microns"],
+    "Shape": ["nearly round", "amyloid warts"]
+  },
+  "HABITAT": ["Scattered", "large troops", "conifers", "pine", "Pacific Coast", "fall", "early spring", "fruiting", "area", "coastal stands", "Monterey pine", "company", "Lactarius deliciosus"],
+  "EDIBILITY": ["avoided", "acrid taste"]
+},
+
+{
+  "Genus": ["Russula"],
+  "Species": ["maculata"],
+  "Common_Name": ["N/A"],
+  "Group?": ["Yes"],
+  "CAP": ["4-10", "(12)", "cm", "broad", "broadly", "convex", "becoming", "plane", "or", "centrally", "depressed", "surface", "viscid", "when", "moist", "smooth", "color", "variable", "red", "to", "pink", "reddish-orange", "peachy-pink", "yellowish-buff", "or", "whitish", "or", "often", "a", "mixture", "of", "these", "colors", "or", "buffy-white", "with", "pinkish", "tints", "on", "the", "margin", "margin", "obscurely", "striate", "in", "age"],
+  "Flesh": ["white", "firm", "becoming", "fragile", "in", "age", "taste", "mild", "or", "slightly", "peppery"],
+  "GILLS": ["creamy", "becoming", "pale", "ochre", "close", "adnexed", "or", "free"],
+  "STALK": ["4-10", "(13)", "cm", "long", "1-3", "cm", "thick", "equal", "or", "thicker", "below", "white", "the", "base", "sometimes", "brownish-stained"],
+  "SPORE_PRINT": ["yellow-ochre", "spores", "7-10", "x", "6-9", "microns", "nearly", "round", "with", "amyloid", "warts", "and", "ridges"],
+  "HABITAT": ["Solitary", "scattered", "or", "in", "groups", "under", "hardwoods", "common", "in", "our", "area", "in", "the", "fall", "and", "winter", "sometimes", "spring", "with", "live", "oak", "but", "more", "widely", "distributed"],
+  "EDIBILITY": ["Unknown"]
+},
+
+{
+  "Genus": ["Russula"],
+  "Species": ["placita"],
+  "Common_Name": ["Pleasing Russula"],
+  "Group?": ["Yes"],
+  "CAP": ["2-7", "10", "cm broad", "convex", "plane", "depressed", "surface viscid", "moist", "smooth", "dark purple", "wine-colored", "reddish-violet", "brownish-purple", "darker at center", "paler toward margin", "brown to yellowish at center", "washed out in age", "margin usually striate"],
+  "Flesh": ["rather thin", "fragile", "white", "odor", "taste mild"],
+  "GILLS": ["close", "white", "creamy", "yellow", "dull ochre-yellow", "adnate", "adnexed", "free"],
+  "STALK": ["2-8 cm long", "0.5-2 cm thick", "equal", "slightly thicker at either end", "white", "dry", "soft", "spongy inside", "fragile in age"],
+  "SPORE_PRINT": ["yellow-ochre", "spores 7-10", "6-9 microns", "broadly elliptical", "nearly round", "amyloid warts", "ridges"],
+  "HABITAT": ["Solitary", "scattered", "gregarious", "woods", "associated mainly with conifers", "widely distributed", "fall", "winter", "Douglas-fir", "R. xerampelina", "R. integra", "Lactarius rubrilacteus", "spruce", "fir", "hemlock", "pine"],
+  "EDIBILITY": ["Edible", "forgettable", "thin-fleshed", "virtually tasteless", "Similar species", "probably", "definitely-harmless"]
+},
+
+{
+"Genus": ["Russula"],
+"Species": ["integra"],
+"Common_Name": ["N/A"],
+"Group?": ["Yes"],
+"CAP": ["3-12 cm broad", "convex", "becoming plane", "slightly depressed", "surface smooth", "viscid when moist", "color variable", "burgundy", "vinaceous-brown", "livid red", "rusty-red", "margin paler", "reddish-buff", "older specimens", "buff", "brownish", "central area", "entirely reddish-buff", "margin obscurely striate", "old age"],
+"Flesh": ["crisp", "firm", "white", "not staining", "odor mild", "taste mild"],
+"GILLS": ["adnate", "adnexed", "free", "white", "yellowish", "pale ochre", "close"],
+"STALK": ["3-9 cm long", "1-3 cm thick", "equal", "tapering upward", "dry", "white", "brownish spots", "yellow-brown spots", "stains"],
+"SPORE_PRINT": ["yellow-ochre", "spores 8-11 x 6-9 microns", "broadly elliptical", "amyloid warts"],
+"HABITAT": ["Scattered", "gregarious", "conifers", "widely distributed", "Common", "fall", "early winter", "large fruitings", "Douglas-fir"],
+"EDIBILITY": ["Edible", "good", "young", "crisp", "similar species", "unknown edibility", "exercise caution"]
+},
+
+{
+  "Genus": ["Russula"],
+  "Species": ["alutacea"],
+  "Common_Name": ["N/A"],
+  "Group?": ["Yes"],
+  "CAP": [
+    "5-20 cm broad",
+    "convex",
+    "plane",
+    "somewhat depressed",
+    "surface viscid",
+    "moist",
+    "dry",
+    "smooth",
+    "dark red",
+    "red",
+    "purplish",
+    "purple-brown",
+    "purple-red",
+    "buff",
+    "straw-colored",
+    "olive shades",
+    "mixture of colors",
+    "margin striate"
+  ],
+  "Flesh": [
+    "brittle",
+    "white",
+    "firm",
+    "fragile",
+    "odor mild",
+    "taste mild"
+  ],
+  "GILLS": [
+    "pale",
+    "dull ochre",
+    "straw-color",
+    "close",
+    "adnate",
+    "adnexed",
+    "free",
+    "brittle"
+  ],
+  "STALK": [
+    "3-10 cm long",
+    "1.5-4 cm thick",
+    "equal",
+    "smooth",
+    "dry",
+    "white",
+    "tinged pinkish"
+  ],
+  "SPORE_PRINT": [
+    "ochre-yellow",
+    "spores 8-11 microns",
+    "spores 6.5-9 microns",
+    "broadly elliptical",
+    "amyloid warts"
+  ],
+  "Phenol_solution": ["staining stalk purple-red", "staining flesh purple-red"],
+  "HABITAT": [
+    "Solitary",
+    "scattered",
+    "gregarious",
+    "mixed woods",
+    "conifers",
+    "widely distributed",
+    "old coastal pine forests",
+    "fall",
+    "winter"
+  ],
+  "EDIBILITY": [
+    "Not recommended",
+    "large number of species",
+    "edible"
+  ]
+},
+
+{
+  "Genus": ["Russula"],
+  "Species": ["xerampelina"],
+  "Common_Name": ["Shrimp Russula"],
+  "Group?": ["No"],
+  "CAP": {
+    "Description": ["5-30 cm broad", "convex becoming plane or centrally depressed"],
+    "Surface": ["smooth"],
+    "Moist": ["viscid"],
+    "Color": ["red", "dark red", "purple", "brownish-olive", "green", "brown", "yellow-brown", "purple-brown"],
+    "Margin": ["usually striate in age"]
+  },
+  "Flesh": {
+    "Description": ["thick", "creamy-white"],
+    "Bruising": ["yellowish", "brown", "discolored brownish"],
+    "Brittle": [true]
+  },
+  "Odor": {
+    "Description": ["mild", "shrimpy", "crablike"]
+  },
+  "Taste": {
+    "Description": ["mild"]
+  },
+  "GILLS": {
+    "Description": ["close", "adnate to adnexed"],
+    "Color": ["creamy-white", "dull yellowish"],
+    "Staining": ["like the flesh"],
+    "Drying": ["brownish", "grayish"]
+  },
+  "STALK": {
+    "Length": ["3-12 cm long"],
+    "Thickness": ["1-4 cm thick"],
+    "Base": ["equal", "slightly enlarged base"],
+    "Surface": ["dry"],
+    "Color": ["rose-pink", "white", "tinge of pink", "pure white"],
+    "Staining": ["yellowish", "brown"],
+    "Interior": ["spongy", "discolored in age"]
+  },
+  "SPORE_PRINT": {
+    "Color": ["yellowish"],
+    "Spores": ["8-11 x 6-8.5 microns", "elliptical", "nearly round", "amyloid warts"]
+  },
+  "Flesh_and_Stalk": {
+    "Color_Change": ["turning deep green in ferrous sulfate"]
+  },
+  "HABITAT": ["Solitary", "gregarious", "conifers", "widely distributed", "common", "Arctic Circle", "Douglas-fir", "abundant in fall", "less abundant in winter and early spring"],
+  "EDIBILITY": ["Edible", "unforgettable", "least appreciated", "edible fungi", "mediocrity", "young nutty caps", "stuffed with grated cheese", "chives", "walnuts", "parsley", "broiled", "contrast to R. cyanoxantha", "rarely riddled with maggots"]
+},
+
+{
+  "Genus": ["Camarophyllus"],
+  "Species": ["borealis"],
+  "Common_Name": ["Snowy Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": ["1-5", "cm", "broad", "convex", "obtusely", "umbonate", "expanding", "age", "plane", "depressed", "surface", "smooth", "moist", "lubricous", "not", "viscid", "watery", "white", "dull"],
+  "Flesh": ["thin", "soft", "white"],
+  "Odor": ["mild"],
+  "GILLS": ["decurrent", "well-spaced", "thick", "soft", "somewhat", "waxy", "white"],
+  "STALK": ["2-9", "cm", "long", "2-5", "8", "mm", "thick", "equal", "tapering", "downward", "smooth", "firm", "dry", "often", "curved", "sinuous", "white"],
+  "VEIL": ["absent"],
+  "SPORE_PRINT": ["white"],
+  "spores": ["7-9", "12", "x", "4.5-6.5", "microns", "elliptical", "smooth"],
+  "Gill_tissue": ["interwoven"],
+  "HABITAT": ["Scattered", "groups", "ground", "humus", "woods", "edges", "widely", "distributed", "area", "species", "relatives", "C", "virgineus", "C", "niveus", "see", "comments", "fairly", "common", "mushroom", "season", "seldom", "occur", "large", "numbers", "typical", "Hygrophorus", "eburneus", "best", "fruitings", "winter", "relatively", "dry", "weather"],
+  "EDIBILITY": ["Edible", "fleshless", "flavorless", "savorless"]
+},
+
+{
+"Genus": ["Camarophyllus"],
+"Species": ["russocoriaceus"],
+"Common_Name": ["Cedar Waxy Cap"],
+"Group?": ["No"],
+"CAP": {
+"Size": ["1-3 (5) cm broad"],
+"Shape": ["convex", "plane", "umbonate", "depressed"],
+"Surface": ["smooth", "not viscid"],
+"Color": ["white", "pale tan", "yellowish"]
+},
+"Flesh": {
+"Color": ["whitish"],
+"Thickness": ["thin"],
+"Odor": ["fragrant", "arborvitae", "cedar"]
+},
+"GILLS": {
+"Spacing": ["well-spaced"],
+"Attachment": ["decurrent"],
+"Texture": ["thick", "waxy"],
+"Color": ["white", "whitish"]
+},
+"STALK": {
+"Length": ["3-10 cm long"],
+"Thickness": ["2-5 (8) mm thick"],
+"Shape": ["equal", "tapered downward"],
+"Relative Length": ["long in relation to cap"],
+"Surface": ["dry", "smooth"],
+"Color": ["colored like cap", "curved", "sinuous"]
+},
+"VEIL": ["absent"],
+"SPORE_PRINT": {
+"Color": ["white"],
+"Spore Size": ["6.5-9x 4-6 microns"],
+"Shape": ["elliptical"],
+"Surface": ["smooth"]
+},
+"Gill_tissue": ["interwoven"],
+"HABITAT": ["Widely scattered", "small groups", "woods", "edges", "west coast", "Europe", "fall", "winter", "higher elevations", "coastal mountains"],
+"EDIBILITY": ["Not recommended", "medicinal flavor", "raw"]
+},
+
+{
+  "Genus": ["Camarophyllus"],
+  "Species": ["pratensis"],
+  "Common_Name": ["Meadow Waxy Cap"],
+  "Group?": ["No"],
+  "Characteristics": {
+    "CAP": {
+      "Size": ["2-9 (10) cm broad"],
+      "Shape": ["obtuse", "broadly convex", "broadly umbonate", "plane", "depressed"],
+      "Surface": ["smooth", "cracking"],
+      "Viscid": ["not viscid"],
+      "Color": ["rufous", "dull orange", "pale dull orange", "salmon-buff", "pinkish-tan", "buff", "tawny", "whitish"],
+      "Margin": ["wavy"]
+    },
+    "Flesh": {
+      "Color": ["white", "tinged cap color"],
+      "Odor": ["mild"]
+    },
+    "GILLS": {
+      "Type": ["typically decurrent"],
+      "Color": ["same color as cap", "paler", "pale dull orange", "salmon-buff", "nearly white"],
+      "Spacing": ["well-spaced"],
+      "Shape": ["thick", "broad", "waxy"]
+    },
+    "STALK": {
+      "Length": ["3-10 cm"],
+      "Thickness": ["0.5-2 cm"],
+      "Color": ["whitish", "tinged cap color"],
+      "Shape": ["equal", "tapering downward"],
+      "Texture": ["dry", "smooth", "fibrillose"]
+    },
+    "VEIL": ["absent"],
+    "SPORE_PRINT": {
+      "Color": ["white"],
+      "Spores": ["5.5-8 x 3.5-5 microns", "elliptical", "nearly round"]
+    },
+    "Gill_tissue": ["interwoven"]
+  },
+  "HABITAT": ["Solitary", "scattered", "gregarious", "damp places", "common", "widely distributed", "Europe", "Iceland", "South America", "winter", "redwood", "pratensis", "fields", "open", "grassy situations"],
+  "EDIBILITY": ["Edible", "rated highly in Europe", "morels", "experience", "no great cause for enthusiasm", "similarly-colored chanterelle", "attacked by maggots"]
+},
+
+{
+  "Genus": ["Camarophyllus"],
+  "Species": ["subviolaceus"],
+  "Common_Name": ["Violet-Gray Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": {
+    "Size": ["2-6 cm"],
+    "Shape": ["broadly convex", "plane", "slightly depressed", "uplifted margin"],
+    "Surface": ["slightly viscid", "moist", "hygrophanous"],
+    "Color": ["violet-gray", "violet-brown", "gray", "pallid"],
+    "Margin": ["translucent", "striate", "fresh"]
+  },
+  "Flesh": {
+    "Description": ["thin", "colored like cap", "paler"],
+    "Taste": ["mild", "bitter", "slightly acrid"]
+  },
+  "GILLS": {
+    "Attachment": ["decurrent"],
+    "Color": ["whitish", "smoky-violet", "gray", "violet tinge"],
+    "Spacing": ["well-spaced"],
+    "Texture": ["thick", "soft", "waxy"]
+  },
+  "STALK": {
+    "Length": ["3-7 cm"],
+    "Thickness": ["0.4-1 cm"],
+    "Shape": ["equal", "tapered downward"],
+    "Surface": ["dry", "smooth"],
+    "Color": ["white", "tinged cap color"],
+    "Curvature": ["curved"]
+  },
+  "VEIL": ["absent"],
+  "SPORE_PRINT": {
+    "Color": ["white"],
+    "Spores": ["6-8 x 4-6 microns", "elliptical", "smooth"]
+  },
+  "Gill_tissue": ["interwoven"],
+  "HABITAT": ["Scattered", "small groups", "woods", "swamps", "northern North America", "late summer", "early winter", "Pacific Northwest", "not particularly common"],
+  "EDIBILITY": ["Unknown"]
+},
+
+{
+  "Genus": ["Camarophyllus"],
+  "Species": ["recurvatus"],
+  "Common_Name": ["Little Brown Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": {
+    "Description": ["1-3 cm broad", "convex becoming plane or slightly depressed", "sometimes with a small pointed umbo"],
+    "Surface": ["smooth", "cracking into small scales"],
+    "Texture": ["dry", "slightly viscid"],
+    "Color": ["dark", "pale olive-brown", "pallid"],
+    "Margin": ["often wavy", "pleated"]
+  },
+  "Flesh": {
+    "Description": ["thin"],
+    "Color": ["olive-brown"],
+    "Odor": ["mild"]
+  },
+  "GILLS": {
+    "Description": ["decurrent", "well-spaced", "broad", "thick", "soft", "rather waxy"],
+    "Color": ["white", "grayish-white"]
+  },
+  "STALK": {
+    "Length": ["2-5 cm"],
+    "Thickness": ["3-6 mm"],
+    "Shape": ["equal", "tapering downward"],
+    "Surface": ["smooth"],
+    "Texture": ["not viscid"],
+    "Color": ["whitish", "colored like cap"]
+  },
+  "VEIL": ["absent"],
+  "SPORE_PRINT": ["white"],
+  "Spores": {
+    "Size": ["7-10 x 4-6 microns"],
+    "Shape": ["elliptical"],
+    "Surface": ["smooth"]
+  },
+  "Gill_tissue": ["interwoven"],
+  "HABITAT": ["Scattered", "gregarious", "conifers", "open", "grassy areas", "widely distributed", "California", "fruitings", "northern California"],
+  "EDIBILITY": ["Unknown"]
+},
+
+{
+  "Genus": ["Hygrocybe"],
+  "Species": ["marginata"],
+  "Common_Name": ["orange-Gilled Waxy Cap"],
+  "Group?": ["No"],
+  "Description": {
+    "CAP": ["1-5 cm broad", "conical", "convex", "umbonate", "plane", "with uplifted margin", "surface smooth", "hygrophanous but not viscid", "deep yellow", "yellow-orange", "orange when moist", "sometimes with an olive tinge", "fading to pale yellow", "whitish as it dries"],
+    "Flesh": ["thin", "fragile", "waxy"],
+    "GILLS": ["slightly decurrent", "adnate", "adnexed", "even free", "well-spaced", "broad", "thick", "soft", "waxy", "brilliant orange", "at times orange-yellow", "not fading"],
+    "STALK": ["4-10 cm long", "3-6 mm thick", "more or less equal", "smooth", "fragile", "not viscid", "pale orange", "buff", "pale yellow-orange", "often curved", "hollow"],
+    "VEIL": ["absent"],
+    "SPORE_PRINT": ["white", "spores 7-10 x 4-6 microns", "elliptical", "smooth"],
+    "Gill_tissue": ["parallel", "somewhat interwoven"],
+    "HABITAT": ["Solitary", "scattered", "small groups", "humus", "very rotten wood", "under hardwoods", "under conifers", "common in eastern North America", "summer", "fall", "known from Pacific Northwest", "expected in northern California", "not seen in our area"],
+    "EDIBILITY": ["Edible", "negligible substance", "flavor"]
+  }
+},
+
+{
+  "Genus": ["Hygrocybe"],
+  "Species": ["miniata"],
+  "Common_Name": ["Miniature Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": ["1-4 cm broad", "convex", "plane", "slightly depressed", "smooth", "minutely scaly", "hygrophanous", "not viscid", "bright red", "scarlet", "moist", "dries to orange", "finally yellow"],
+  "Flesh": ["very thin", "waxy", "colored like cap"],
+  "GILLS": ["adnexed", "adnate", "slightly decurrent", "soft", "waxy", "thick", "broad", "red", "orange", "yellow", "peachy", "fading like cap"],
+  "STALK": ["2-5 (8) cm long", "2-4 mm thick", "equal", "smooth", "dry", "red", "orange", "yellow", "fading like the cap but more slowly"],
+  "VEIL": ["absent"],
+  "SPORE_PRINT": ["white", "spores 6-10 x 4-6 microns", "elliptical", "smooth"],
+  "Gill_tissue": ["parallel"],
+  "HABITAT": ["Solitary", "scattered", "groups", "small tufts", "ground", "rotting logs", "moss", "widely distributed", "common", "late fall", "winter", "variety of habitats", "deep shade", "dense stand", "pole-size redwood saplings", "a-plot of cypresses mixed with oaks"],
+  "EDIBILITY": ["Edible", "negligible substance", "bland", "Captain Charles McIlvaine", "gunner for partridges will not shoot rabbits", "knowing toadstool-seeker will pass all others where H. miniatus abounds"]
+},
+
+{
+  "Genus": ["Hygrocybe"],
+  "Species": ["coccinea"],
+  "Common_Name": ["Righteous", "Red", "Waxy", "Cap"],
+  "Group?": ["No"],
+  "CAP": ["1.5", "4", "6", "cm", "broad", "obtusely", "conical", "convex", "becoming", "plane", "slightly", "umbonate", "surface", "smooth", "dry", "tacky", "deep", "red", "blood-red", "bright", "red", "fresh", "fading", "somewhat", "age", "developing", "paler", "streaks", "splotches"],
+  "Flesh": ["thin", "reddish", "orange", "waxy"],
+  "GILLS": ["adnate", "adnexed", "free", "reddish", "orange", "peachy", "red", "yellow", "edges", "thick", "broad", "soft", "waxy"],
+  "STALK": ["3", "7", "10", "cm", "long", "3", "8", "mm", "thick", "equal", "smooth", "not", "viscid", "hollow", "usually", "red", "reddish-orange", "yellow", "base", "base", "sometimes", "appearing", "whitish", "mycelium", "typically", "not", "fibrillose-striate"],
+  "VEIL": ["absent"],
+  "SPORE_PRINT": ["white", "spores", "7", "10.5", "4", "5", "microns", "elliptical", "smooth"],
+  "Gill_tissue": ["parallel"],
+  "HABITAT": ["Solitary", "scattered", "small", "groups", "woods", "wet", "places", "widely", "distributed", "common", "North", "America", "H.", "punicea", "Like", "H.", "punicea", "frequent", "area", "winter", "redwoods", "mixed", "woods", "Curiously", "regions", "England", "grows", "mainly", "open", "fields"],
+  "EDIBILITY": ["Said", "edible", "easily", "confused", "H.", "punicea", "haven't", "tried"]
+},
+
+{
+"Genus": ["Hygrocybe"],
+"Species": ["punicea"],
+"Common_Name": ["Scarlet", "Waxy", "Cap"],
+"Group?": ["No"],
+"CAP": ["2.5", "12", "14", "cm", "broad", "obtusely", "conical", "convex", "young", "plane", "broadly", "umbonate", "uplifted", "margin", "age", "surface", "smooth", "viscid", "lubricous", "moist", "deep", "red", "bright", "fading", "streaks", "splotches", "reddish-orange", "finally", "orange"],
+"Flesh": ["thin", "waxy", "watery", "reddish-orange", "yellow-orange"],
+"GILLS": ["adnate", "adnexed", "free", "reddish-orange", "yellow", "peachy", "well-spaced", "thick", "broad", "soft", "waxy"],
+"STALK": ["3", "12", "cm", "long", "0.5", "2", "thick", "equal", "narrowed", "base", "smooth", "not", "viscid", "often", "fibrillose-striate", "yellow", "sometimes", "red", "fading", "orange", "base", "usually", "whitish", "sometimes", "yellow"],
+"VEIL": ["absent"],
+"SPORE_PRINT": ["white", "spores", "7-12", "x", "4-6", "microns", "elliptical", "oblong", "smooth"],
+"Gill tissue": ["parallel"],
+"HABITAT": ["Scattered", "gregarious", "cool", "damp", "places", "woods", "widely", "distributed", "fairly", "common", "area", "winter", "early", "spring", "especially", "redwood", "last", "waxy", "cap", "appear", "mid-January", "later"],
+"EDIBILITY": ["Listed", "edible", "books", "poisonous", "people", "toadstool-testers", "unpleasant", "experiences", "efficient", "con-centrator", "malleable", "metallic", "element", "cadmium", "decidedly", "deleterious", "consumed", "regular", "basis"]
+},
+
+{
+  "Genus": ["Hygrocybe"],
+  "Species": ["flavescens"],
+  "Common_Name": ["Golden Waxy Cap"],
+  "Group?": ["No"],
+  "Description": {
+    "CAP": {
+      "Size": ["2-7 cm broad"],
+      "Shape": ["broadly convex", "plane", "margin slightly uplifted"],
+      "Surface": ["smooth"],
+      "Texture": ["viscid when moist"],
+      "Color": ["bright lemon-yellow", "golden-yellow", "orange"]
+    },
+    "Flesh": {
+      "Description": ["thin", "yellow", "waxy"]
+    },
+    "GILLS": {
+      "Attachment": ["typically adnexed", "free"],
+      "Texture": ["soft", "thick", "waxy"],
+      "Color": ["yellow", "pale yellow"]
+    },
+    "STALK": {
+      "Length": ["4-9 cm long"],
+      "Thickness": ["3-10 mm thick"],
+      "Shape": ["equal"],
+      "Surface": ["smooth"],
+      "Texture": ["sometimes tacky", "slightly viscid", "not slimy"],
+      "Characteristics": ["easily splitting", "grooved"],
+      "Color": ["yellow", "yellow-orange"],
+      "Base": ["whitish"]
+    },
+    "VEIL": {
+      "Presence": ["absent"]
+    },
+    "SPORE_PRINT": {
+      "Color": ["white"],
+      "Spore_Size": ["7-9 microns", "4-5 microns"],
+      "Spore_Shape": ["elliptical"],
+      "Texture": ["smooth"]
+    },
+    "Gill_tissue": ["parallel"]
+  },
+  "HABITAT": ["Solitary", "widely scattered", "small groups", "ground", "woods", "widely distributed", "winter", "redwood", "oak", "madrone", "peaks", "H. acutoconica", "fruiting", "bright red waxy caps", "H. punicea", "H. coccinea"],
+  "EDIBILITY": {
+    "Description": ["Edible", "far from incredible", "watery", "little substance", "taste"],
+    "Author_quote": ["colorful addition to a salad", "banana slug"]
+  }
+},
+
+{
+  "Genus": ["Hygrocybe"],
+  "Species": ["acutoconica"],
+  "Common_Name": ["A", "Cute", "Conic", "Waxy", "Cap"],
+  "Group?": ["No"],
+  "CAP": ["2-7", "(10)", "cm", "broad", "bluntly", "acutely", "sharply", "conical", "young", "expanding", "age", "usually", "retaining", "pointed", "umbo", "surface", "smooth", "viscid", "slimy", "moist", "bright", "yellow", "yellow-orange", "orange", "usually", "center"],
+  "Flesh": ["soft", "thin", "waxy", "yellow"],
+  "GILLS": ["adnexed", "free", "thick", "soft", "broad", "waxy", "yellow", "never", "blackening"],
+  "STALK": ["5-8", "(12)", "cm", "long", "3-6", "(I", "0)", "mm", "thick", "equal", "thicker", "below", "usually", "longitudinally", "striate", "twisted", "easily", "splitting", "smooth", "moist", "slightly", "viscid", "yellow", "yellow-orange", "usually", "white", "base", "not", "blackening", "handled", "base", "may", "bruise", "age", "grayish", "nearly", "black"],
+  "VEIL": ["absent"],
+  "SPORE_PRINT": ["white", "spores", "9-15", "x", "5-9", "microns", "elliptical", "smooth"],
+  "Gill_tissue": ["parallel"],
+  "HABITAT": ["Scattered", "gregarious", "ground", "woods", "trees", "widely", "distributed", "area", "fruits", "fall", "early", "winter", "mostly", "redwood", "oak", "nearly", "common", "blackening", "counterpart", "H", "conica", "shorter", "season"],
+  "EDIBILITY": ["Harmless", "fleshless", "flavorless", "comments", "edibility", "H.j1avescens"]
+},
+
+{
+  "Genus": "Hygrocybe",
+  "Species": "conica",
+  "Common_Name": "Witch's Hat; Conical Waxy Cap",
+  "Group?": "No",
+  "CAP": {
+    "1-5 (12) cm": "broad, bluntly to sharply conical, sometimes expanding in age but usually retaining a pointed umbo",
+    "surface": "smooth, dry to moist or slightly viscid, sometimes red but more often orange, yellow, or olive-yellow",
+    "blackening": "in age or upon handling",
+    "margin": "sometimes uplifted in old age"
+  },
+  "Flesh": {
+    "description": "thin, waxy",
+    "blackening": "in age"
+  },
+  "GILLS": {
+    "description": "adnexed or free, thick, broad, soft, waxy",
+    "color": "usually whitish but sometimes tinged yellow, soon becoming grayish and finally black"
+  },
+  "STALK": {
+    "length": "(2) 4-20 cm",
+    "thickness": "0.3-] (1.5) cm",
+    "description": "equal, not viscid or only slightly so, usually striate and/or twisted, hollow in age and easily splitting",
+    "color": "pallid to yellow, olive-yellow, orange, or red, with a whitish to gray base, but turning gray or black when handled or in age"
+  },
+  "VEIL": "absent",
+  "SPORE_PRINT": {
+    "color": "white",
+    "spores": "8-14 x 5-7 microns, elliptical, smooth"
+  },
+  "Gill_tissue": "parallel",
+  "HABITAT": "Solitary to scattered or gregarious on ground in damp places (usually in woods); widely distributed and very common, but rarely fruiting in large numbers. It is known from a wide variety of habitats in North America, but in our area shows a pro-nounced preference for redwood and cypress. It fruits in the fall and winter and, along with H. acutoconica, is usually the first of the brightly colored waxy caps to appear. Bob Winter says it often grows on lawns in Fresno, California.",
+  "EDIBILITY": "Not recommended. It was once considered poisonous, perhaps due to its blackening qualities, but also because four deaths in China were (mistakenly?) attributed to it. Now it's generally regarded as harmless, but Larry Stickney, chef eXlra ordina ire, meandering mainstay of the Mycological Society of San Francisco, and an inimitable mushroom-loving marvel of a man, says it \"elicited an odd sensation of lightheadedness and numbness\" when he tried it. At any rate, it hardly seems worth experimenting with such a thin-fleshed, watery, tasteless morsel."
+},
+
+{
+"Genus": ["Hygrocybe"],
+"Species": ["calyptraeformis"],
+"Common_Name": ["Salmon Waxy Cap"],
+"Group?": ["No"],
+"CAP": [
+"2.5-7 cm broad",
+"acutely (sharply) conical at first",
+"expanding somewhat but retaining a pointed umbo",
+"surface dry or slightly viscid",
+"smooth",
+"coral-pink to pink to salmon when young (rarely tinged lavender)",
+"paler (or pinker or oranger, sometimes with whitish areas) in age",
+"margin often splitting at maturity and sometimes uplifted"
+],
+"Flesh": ["thin", "watery pinkish", "waxy"],
+"GILLS": [
+"adnate to adnexed or even free",
+"thick",
+"soft",
+"waxy",
+"pink to pale pink"
+],
+"STALK": [
+"3-16 cm long",
+"3-8 (10) mm thick",
+"usually rather long and slender",
+"equal",
+"smooth",
+"often longitudinally striate andlor twisted",
+"fragile",
+"hollow",
+"easily splitting",
+"white or tinged pinkish (or rarely lavender)",
+"not truly viscid"
+],
+"VEIL": ["absent"],
+"SPORE_PRINT": [
+"white",
+"spores 6-9 x 4.5-6 microns",
+"elliptical",
+"smooth"
+],
+"Gill_tissue": ["parallel"],
+"HABITAT": [
+"Solitary",
+"widely scattered",
+"small groups",
+"ground",
+"woods",
+"edges",
+"rooted deeply in the humus",
+"widely distributed but not common",
+"found only twice in our area",
+"under redwoods",
+"winter"
+],
+"EDIBILITY": ["Edible"]
+},
+
+{
+  "Genus": ["Hygrocybe"],
+  "Species": ["virescens"],
+  "Common_Name": ["Lime-Green Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": {
+    "Description": ["2-5 cm broad", "obtusely conical", "convex becoming plane", "urn bonate", "with uplifted margin in age"],
+    "Surface": ["smooth", "moist", "tacky"],
+    "Color": ["honey-yellow", "green mixed with dull orange"],
+    "Color_Overall": ["citrine-green", "yellow-green", "lime-green"],
+    "Flesh": ["thin", "fragile", "greenish", "waxy"]
+  },
+  "GILLS": {
+    "Attachment": ["adnexed", "free"],
+    "Color": ["whitish", "citrine-green"],
+    "Thickness": ["thick", "soft", "waxy"]
+  },
+  "STALK": {
+    "Length": ["3-7 cm"],
+    "Thickness": ["3-8 mm"],
+    "Shape": ["equal"],
+    "Surface": ["smooth"],
+    "Hollowness": ["hollow in age"],
+    "Color": ["lime-green"],
+    "Base_Color": ["whitish"]
+  },
+  "VEIL": ["absent"],
+  "SPORE_PRINT": {
+    "Color": ["white"],
+    "Spores": ["7-10x 5-6.5 microns", "elliptical", "smooth"],
+    "Gill_tissue": ["parallel"]
+  },
+  "HABITAT": ["In scattered groups", "tufts under redwood", "Northern California", "apparently quite rare", "Van Damm State Park", "Mendocino County", "December 1971"],
+  "EDIBILITY": ["Unknown"]
+},
+
+{
+"Genus": ["Hygrocybe"],
+"Species": ["psittacina"],
+"Common_Name": ["Parrot Waxy Cap"],
+"Group?": ["No"],
+"Description": {
+"CAP": {
+"Size": ["1-3 cm broad"],
+"Shape": ["bell-shaped", "convex", "broadly umbonate", "plane in age"],
+"Surface": ["smooth"],
+"Texture": ["slimy", "viscid", "moist", "shiny", "dry"],
+"Color": ["dark green", "bright green", "olive-green", "yellow", "pink", "orange", "rufous", "vinaceous", "ochre-buff", "tawny"],
+"Margin": ["translucent-striate", "moist"]
+},
+"Flesh": {
+"Texture": ["thin", "soft", "waxy"],
+"Odor": ["mild"]
+},
+"GILLS": {
+"Attachment": ["adnate", "slightly decurrent", "seceding"],
+"Spacing": ["well-spaced"],
+"Texture": ["soft", "thick", "waxy"],
+"Color": ["greenish", "yellow", "redder", "retaining slight greenish tints"]
+},
+"STALK": {
+"Length": ["2-6 (8) cm"],
+"Thickness": ["2-5 mm"],
+"Shape": ["equal", "tapering upward"],
+"Hollowness": ["hollow"],
+"Surface": ["smooth"],
+"Texture": ["slimy", "viscid", "moist"],
+"Color": ["greenish", "yellow", "pink", "orange"]
+},
+"VEIL": ["absent"],
+"SPORE_PRINT": {
+"Color": ["white"],
+"Spore_Size": ["6.5-10 x 4-6 microns"],
+"Shape": ["elliptical"],
+"Texture": ["smooth"]
+},
+"Gill_tissue": ["parallel"],
+"HABITAT": ["Solitary", "scattered", "small groups", "damp soil", "moss", "humus", "widely distributed", "late fall", "winter", "overlooked", "redwood", "other trees", "mossy road banks", "grass", "swampy hardwood forest", "Pennsylvania"],
+"EDIBILITY": ["Edible", "slimy", "insubstantial", "Raw specimens", "colorful", "slippery", "supplement to salads", "savor"]
+}
+},
+
+{
+  "Genus": "Hygrophorus",
+  "Species": "chrysodon",
+  "Common_Name": "Flaky Waxy Cap",
+  "Group?": false,
+  "CAP": {
+    "Size": ["2.5 cm", "8 cm", "10 cm"],
+    "Shape": ["convex", "plane", "broadly umbonate"],
+    "Surface": ["smooth"],
+    "Moisture": ["viscid", "moist"],
+    "Color": ["white"],
+    "Margin": ["delicate", "yellow", "golden-orange", "flakes", "granules"],
+    "MarginColor": ["tinted yellow throughout"],
+    "MarginState": ["inrolled"]
+  },
+  "Flesh": {
+    "Thickness": ["thick"],
+    "Texture": ["soft"],
+    "Color": ["white"]
+  },
+  "GILLS": {
+    "Decurrence": ["decurrent"],
+    "Spacing": ["well-spaced"],
+    "Color": ["white"],
+    "Texture": ["soft", "waxy"]
+  },
+  "STALK": {
+    "Length": ["3 cm", "10 cm"],
+    "Thickness": ["0.5 cm", "2 cm"],
+    "Shape": ["equal"],
+    "Moisture": ["viscid", "moist"],
+    "Color": ["white"],
+    "Apex": ["ring", "yellow", "golden-orange", "granules"],
+    "ApexState": ["dispersed throughout"]
+  },
+  "VEIL": {
+    "Presence": ["evanescent"],
+    "Residue": ["slime", "stalk"]
+  },
+  "SPORE_PRINT": {
+    "Color": ["white"],
+    "Spores": ["7 microns", "10 microns", "3.5 microns", "5 microns"],
+    "Shape": ["elliptical"],
+    "Texture": ["smooth"]
+  },
+  "Gill_tissue": ["divergent"],
+  "HABITAT": ["Solitary", "gregarious", "woods", "widely distributed", "common", "area", "conifers", "coastal California", "preference", "madrone", "tanoak", "fruiting", "sporadically", "late fall", "winter"],
+  "EDIBILITY": ["Edible", "slimy", "bland", "details", "H. sordidus"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["eburneus"],
+  "Common_Name": ["Ivory Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": ["2-7 (10) cm broad", "obtuse", "convex", "broadly umbonate", "plane", "uplifted margin", "surface smooth", "extremely slimy", "viscid when wet", "pure white", "slightly yellowish in old age", "occasionally with small pinkish spots", "margin at first inrolled"],
+  "Flesh": ["soft", "white"],
+  "Odor": ["mild"],
+  "GILLS": ["adnate", "decurrent", "well-spaced", "thick", "soft", "waxy", "pure white", "slightly yellowish in old age"],
+  "STALK": ["4-15 (18) cm long", "0.3-1 (2) cm thick", "equal or tapered toward base", "usually rather slender", "smooth or with punctate apex", "slimy-viscid when moist", "pure white", "discoloring slightly yellowish or pinkish in age"],
+  "VEIL": ["evanescent", "depositing slime on stalk"],
+  "SPORE_PRINT": ["white"],
+  "Spores": ["6-9 x 3.5-5 microns", "elliptical", "smooth"],
+  "Gill_tissue": ["divergent"],
+  "HABITAT": ["Scattered", "gregarious", "tufted on ground", "woods", "widely distributed", "common on the west coast", "mycorrhizal with hardwoods", "common fall and winter Hygrophorus of oak-madrone woodlands", "may grow with conifers", "abundant in oak-pine forests (e.g., Oregon)", "fruits in late summer and fall under pinyon pine (New Mexico)"],
+  "EDIBILITY": ["Edible", "collected by some people", "sliminess (see comments on edibility of H. sordidus)"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["gliocyclus"],
+  "Common_Name": ["Glutinous Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": {
+    "Range": ["(2)", "4", "10", "15", "cm"],
+    "Shape": ["convex", "obtuse", "broadly", "umbonate", "plane", "shallowly", "depressed"],
+    "Surface": ["smooth"],
+    "Texture": ["slimy", "viscid", "moist"],
+    "Color": ["white", "pale", "cream", "yellowish", "buff"],
+    "Margin": ["inrolled"]
+  },
+  "Flesh": {
+    "Color": ["white"],
+    "Texture": ["firm"]
+  },
+  "GILLS": {
+    "Attachment": ["adnate", "decurrent"],
+    "Spacing": ["well-spaced"],
+    "Thickness": ["thick", "soft", "waxy"],
+    "Color": ["whitish", "pale", "dingy", "yellow", "pinkish"]
+  },
+  "STALK": {
+    "Length": ["2", "6", "cm"],
+    "Thickness": ["0.6", "1", "2.5", "cm"],
+    "Shape": ["squat", "equal", "ventricose", "swollen", "tapered", "base"],
+    "Surface": ["smooth"],
+    "Texture": ["slimy", "moist", "apex"],
+    "Color": ["dingy", "white", "creamy"],
+    "Consistency": ["solid"]
+  },
+  "VEIL": {
+    "Presence": ["evanescent"],
+    "Residue": ["slime", "stalk", "obscure", "ring", "annulus"]
+  },
+  "SPORE_PRINT": {
+    "Color": ["white"],
+    "Spores": ["8", "11", "4.5", "6", "microns"],
+    "Shape": ["elliptical"],
+    "Texture": ["smooth"]
+  },
+  "Gill_tissue": ["divergent"],
+  "HABITAT": ["Scattered", "gregarious", "needle", "duff", "pines", "distributed", "common", "fall", "winter", "spring", "growing", "hypo-thejus", "coast", "Monterey", "bishop", "inland", "Coulter", "digger", "ponderosa"],
+  "EDIBILITY": ["Edible", "choice", "eburneus", "disagreeable", "collect", "copious", "slime", "edibility", "sordidus", "remove", "mushrooms", "hands"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["subalpinus"],
+  "Common_Name": ["Subalpine Waxy Cap"],
+  "Group?": ["No"],
+  "Description": {
+    "CAP": ["4-15", "25", "cm", "broad", "broadly", "convex", "becoming", "plane", "slightly", "depressed", "surface", "viscid", "moist", "soon", "dry", "smooth", "pure", "white", "developing", "slight", "yellowish", "tinge", "age", "margin", "sometimes", "veil", "remnants"],
+    "Flesh": ["Thick", "firm", "first", "soft", "age", "white", "odor", "taste", "mild"],
+    "GILLS": ["White", "young", "often", "creamy", "tinged", "dingy", "yellowish", "age", "typically", "adnate", "decurrent", "narrow", "close", "soft", "andlor", "waxy"],
+    "STALK": ["3-10", "cm", "long", "1-5", "7", "thick", "apex", "usually", "thick", "stout", "often", "rounded", "basal", "bulb", "young", "often", "more", "less", "equal", "age", "firm", "dry", "solid", "white"],
+    "VEIL": ["Somewhat", "membranous", "disappearing", "forming", "narrow", "flaring", "flange-like", "median", "inferior", "ring", "stalk", "just", "above", "bulb"],
+    "SPORE_PRINT": ["White", "spores", "8-10", "x", "4.5-6", "microns", "elliptical", "smooth"],
+    "Gill_tissue": ["Divergent"]
+  },
+  "HABITAT": ["Solitary", "gregarious", "ground", "conifers", "known", "mountains", "western", "North", "America", "common", "snowbank", "species", "Sierra", "Nevada", "Cascades", "Rocky", "Mountains", "appears", "summer", "late", "fall", "yet", "find", "coast"],
+  "EDIBILITY": ["Deer", "consider", "delicacy", "tempting", "robustness", "penchant", "growing", "spring", "edible", "agarics", "decays", "quickly", "greatest", "texture", "flavor", "see", "comments", "edibility", "H", "sordidus"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["sordidus"],
+  "Common_Name": ["Sordid Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": [
+    "5-20 cm",
+    "broad",
+    "convex",
+    "plane",
+    "uplifted margin",
+    "smooth",
+    "viscid",
+    "moist",
+    "slimy",
+    "dry",
+    "white",
+    "tinged yellowish-buff",
+    "inrolled"
+  ],
+  "Flesh": ["thick", "firm", "white"],
+  "GILLS": [
+    "adnate",
+    "decurrent",
+    "soft",
+    "slightly waxy",
+    "white",
+    "dingy yellowish"
+  ],
+  "STALK": [
+    "6-10 cm long",
+    "1.5-4 cm thick",
+    "equal",
+    "narrowed at base",
+    "solid",
+    "smooth",
+    "firm",
+    "white",
+    "not viscid"
+  ],
+  "VEIL": ["absent"],
+  "SPORE_PRINT": [
+    "white",
+    "spores 6-8 x 4-5.5 microns",
+    "elliptical",
+    "smooth"
+  ],
+  "Gill_tissue": ["divergent"],
+  "HABITAT": [
+    "Solitary",
+    "widely scattered",
+    "gregarious",
+    "ground",
+    "woods",
+    "associated principally with oaks",
+    "widespread",
+    "primarily southern",
+    "fruits with live oak in the fall and winter",
+    "abundant some years",
+    "completely absent others"
+  ],
+  "EDIBILITY": [
+    "Edible",
+    "not choice",
+    "ruined",
+    "curry",
+    "sliced caps",
+    "absorbed surrounding spices",
+    "contributed special flavor",
+    "turmeric",
+    "turn yellow",
+    "undercooked",
+    "overfed banana slugs",
+    "gummy",
+    "amorphous masses of slime",
+    "coagulated",
+    "engulfed peas",
+    "engulfed savory chunks of potato",
+    "rendering entire dish inedible",
+    "unforgettable",
+    "attractive appearance belies slugulose qualities",
+    "scientific soul",
+    "named it",
+    "similar experience",
+    "equally sordid experience"
+  ]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["russula"],
+  "Common_Name": ["Russula-Like Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": {
+    "Size": ["5-13 cm broad"],
+    "Shape": ["convex", "plane", "uplifted", "margin", "age"],
+    "Surface": ["viscid", "wet", "dry"],
+    "Color": ["coral-pink", "vinaceous-red", "purple-red", "vinaceous fibrils"],
+    "Texture": ["smooth", "minutely scaly", "yellowish", "rubbed"],
+    "Margin": ["paler", "whitish", "incurved", "young"]
+  },
+  "Flesh": {
+    "Description": ["thick", "white", "tinged pink"],
+    "Odor": ["mild"],
+    "Taste": ["mild"]
+  },
+  "GILLS": {
+    "Attachment": ["adnate", "adnexed", "slightly decurrent"],
+    "Density": ["close", "crowded", "reach", "stalk"],
+    "Texture": ["soft", "waxy"],
+    "Color": ["white", "flushed pink", "purple-red", "vinaceous stains"]
+  },
+  "STALK": {
+    "Length": ["3-10 cm long"],
+    "Thickness": ["1.5-3.5 cm thick"],
+    "Description": ["rather stout"],
+    "Texture": ["solid", "dry", "smooth"],
+    "Base": ["equal", "tapered", "below"],
+    "Color": ["white", "stained", "streaked pink", "reddish", "vinaceous"]
+  },
+  "VEIL": ["absent"],
+  "SPORE_PRINT": {
+    "Color": ["white"],
+    "Spores": ["6-8 x 3-5 microns", "elliptical", "smooth"]
+  },
+  "Gill_tissue": ["slightly divergent"],
+  "HABITAT": ["Scattered", "gregarious", "rings", "mixed woods", "hardwoods", "oaks", "widely distributed", "common", "eastern North America", "infrequent", "west coast", "late fall", "early winter", "tanoak-madrone woods", "higher elevations", "coastal mountains"],
+  "EDIBILITY": {
+    "Description": ["Edible", "choice", "lingering distaste", "fleshy waxy caps", "comments on edibility", "H. sordidus", "discouraged", "sampling"],
+    "Authority_opinion": ["best of the family for the table"]
+  },
+  "Other_authority_opinions": {
+    "Luen_Miller": ["Not as good as H. sordidus", "edible species", "not despised", "noble waxy texture", "toothsome meal", "supreme succulence", "copious supply of wax", "coats the mouth", "coats the throat", "hours after eating", "good ice cream", "all authorities pronounce it excellent", "delightful scalloped", "delightful stewed", "made into catchup", "poured over food", "Tartars", "'poor man's candle'", "dried carps", "weak flickering flame", "lit"],
+    "Footnote_reference": ["p. 419"]
+  }
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["purpurascens"],
+  "Common_Name": ["Purple-Red Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": {
+    "Size": ["(3)", "6-12", "(20)", "cm", "broad"],
+    "Shape": ["convex", "becoming", "broadly", "convex", "or", "plane"],
+    "Surface": ["slightly", "viscid", "wet", "dry"],
+    "Color": ["whitish", "coral-pink", "darker", "(vinaceous-red", "purple-brown)", "splashes", "streaks", "andlor", "fibrils"],
+    "Margin": ["incurved", "first", "usually", "paler"]
+  },
+  "Flesh": {
+    "Description": ["thick", "firm", "white"],
+    "Odor": ["mild"],
+    "Taste": ["mild", "bitter"]
+  },
+  "GILLS": {
+    "Attachment": ["adnate", "decurrent"],
+    "Color": ["white", "flushed", "pink", "spotted", "stained", "purple-red", "vinaceous"],
+    "Arrangement": ["fairly", "close", "soft", "waxy"]
+  },
+  "STALK": {
+    "Length": ["(3)", "5-12(15)", "cm", "long"],
+    "Thickness": ["1-2.5", "cm", "thick"],
+    "Shape": ["equal", "tapered", "below"],
+    "Consistency": ["solid", "firm", "not", "viscid"],
+    "Color": ["colored", "stained", "less", "like", "cap"]
+  },
+  "VEIL": {
+    "Description": ["fibrillose", "white"],
+    "Location": ["forming", "slight", "superior", "apical", "ring", "hairy", "zone", "stalk", "disappearing", "entirely"]
+  },
+  "SPORE_PRINT": {
+    "Color": ["white"],
+    "Spores": ["5.5-8", "x", "3-4.5", "microns", "elliptical", "smooth"]
+  },
+  "Gill tissue": ["divergent"],
+  "HABITAT": ["Solitary", "scattered", "gregarious", "troops", "conifers", "especially", "spruce", "pine", "widely", "distributed", "northern", "western", "North", "America", "occur", "area", "fairly", "common", "Sierra", "Nevada", "Cascades", "spring", "fall", "fruits", "prolifically", "late", "summer", "spruce", "forests", "Rocky", "Mountains"],
+  "EDIBILITY": ["Edible", "variants", "unpalatable", "bitter", "even", "cooked-as", "personally", "attest"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["pudorinus"],
+  "Common_Name": ["Spruce Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": {
+    "Size": ["5-15 (20) cm broad"],
+    "Shape": ["obtuse", "convex with an inrolled margin"],
+    "Description": ["becoming broadly convex", "plane in age", "surface smooth", "viscid when moist", "pale tan", "pinkish", "flesh-color", "pinkish-stained orange toward the center", "pinker or paler at the margin"]
+  },
+  "Flesh": {
+    "Description": ["thick", "firm", "white", "tinged cap color"],
+    "Odor": ["mild", "faintly fragrant"]
+  },
+  "GILLS": {
+    "Attachment": ["adnate to decurrent"],
+    "Closeness": ["fairly close"],
+    "Texture": ["soft", "waxy"],
+    "Color": ["whitish", "pinkish", "pale flesh-color"],
+    "Reddish_Stains": ["not developing reddish stains"]
+  },
+  "STALK": {
+    "Length": ["4-20 cm"],
+    "Thickness": ["1-3 cm"],
+    "Shape": ["equal", "narrowed below"],
+    "Texture": ["solid"],
+    "Surface": ["dry to tacky but not truly viscid"],
+    "Color": ["whitish", "buff", "pinkish", "colored like cap"],
+    "Lower_Part": ["fibrillose"],
+    "Upper_Part": ["conspicuously punctate (with tiny whitish scurfy scales or tufts that darken to reddish-brown when dried or in age, and turn yellow-orange in KG H)"]
+  },
+  "VEIL": ["absent"],
+  "SPORE_PRINT": {
+    "Color": ["white"],
+    "Spores": ["6.5-9.5 x 4-5.5 microns"],
+    "Shape": ["elliptical"],
+    "Surface": ["smooth"]
+  },
+  "Gill_Tissue": ["divergent"],
+  "HABITAT": ["Scattered or in groups on ground under conifers", "particularly spruce", "widely distributed but erratic in its fruiting habits", "It does not occur in our area (probably due to the absence of spruce)", "but [ have seen large fruitings in December with Sitka spruce in northern California", "and in August with Engelmann spruce in the Southwest."],
+  "EDIBILITY": ["Edible but mediocre", "Some variants are said to have a 'turpentine-like taste,'", "but I cannot vouch for the accuracy of this comparison", "since [ have never tasted tur-pentine.", "(Have you?)"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["roseibrunneus"],
+  "Common_Name": ["Rosy-Brown Waxy Cap"],
+  "Group?": ["No"],
+  "Characteristics": {
+    "CAP": {
+      "Size": ["2-10 cm broad"],
+      "Shape": ["convex", "broadly umbonate", "plane", "uplifted margin"],
+      "Surface": ["smooth"],
+      "Texture": ["viscid", "moist"],
+      "Color": ["reddish-brown", "pinkish-cinnamon", "rosy-brown", "brown"],
+      "Margin": ["paler", "whitish"]
+    },
+    "Flesh": {
+      "Color": ["white"],
+      "Texture": ["soft"],
+      "Odor": ["mild"]
+    },
+    "GILLS": {
+      "Attachment": ["adnate", "decurrent", "adnexed"],
+      "Spacing": ["close"],
+      "Texture": ["soft", "waxy"],
+      "Color": ["white"]
+    },
+    "STALK": {
+      "Length": ["3-12 cm"],
+      "Thickness": ["0.5-1 (1.5) cm"],
+      "Shape": ["equal", "tapered", "curved"],
+      "Surface": ["smooth"],
+      "Color": ["white"],
+      "Texture": ["not viscid"],
+      "Apex": ["prominently punctate"]
+    },
+    "VEIL": ["absent"],
+    "SPORE_PRINT": {
+      "Color": ["white"],
+      "Spores": {
+        "Size": ["6-9 microns", "3.5-5 microns"],
+        "Shape": ["elliptical"],
+        "Texture": ["smooth"]
+      }
+    },
+    "Gill_tissue": ["divergent"]
+  },
+  "HABITAT": ["Solitary", "widely scattered", "groups", "associated with oak", "late fall", "winter", "H. brunneus", "Palo Alto", "California", "eastern North America"],
+  "EDIBILITY": ["Edible", "tried"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["bakerensis"],
+  "Common_Name": ["Brown Almond Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": ["4-15 cm broad", "obtuse to convex becoming broadly convex or plane", "surface smooth", "slimy or viscid when moist", "cinnamon-brown to yellow-brown or tawny", "the margin usually paler or whitish."],
+  "Flesh": ["thick", "white"],
+  "Odor": ["sweet", "faint", "almond extract", "crushed peach pits"],
+  "GILLS": ["white", "creamy", "pinkish-buff", "usually decurrent but varying to adnate", "soft", "somewhat waxy"],
+  "STALK": ["4-15 cm long", "0.8-2.5 cm thick", "equal or tapered downward", "smooth", "solid", "dry", "white to pinkish-buff"],
+  "VEIL": ["absent"],
+  "SPORE_PRINT": ["white"],
+  "Spores": ["7.5-10 x 4.5-6 microns", "elliptical", "smooth"],
+  "Gill_tissue": ["divergent"],
+  "HABITAT": ["Widely scattered to gregarious under conifers", "known only from the Pacific Northwest and northern California", "very common at times in the fall and early winter."],
+  "EDIBILITY": ["Edible", "bland", "doesn't taste like it smells"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["speciosus"],
+  "Common_Name": ["Larch Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": {
+    "Size": ["2-5", "8"],
+    "Shape": ["convex", "broadly umbonate", "plane", "centrally depressed"],
+    "Surface": ["slimy", "viscid"],
+    "Color": ["bright orange-red", "orange", "orange-yellow"],
+    "Margin": ["paler"]
+  },
+  "Flesh": {
+    "Color": ["white", "yellow"],
+    "Texture": ["soft"]
+  },
+  "GILLS": {
+    "Attachment": ["adnate", "decurrent"],
+    "Color": ["white", "pale yellow"],
+    "Edge": ["yellow"],
+    "Spacing": ["well-spaced"],
+    "Thickness": ["thick"],
+    "Texture": ["soft", "waxy"]
+  },
+  "STALK": {
+    "Length": ["3-10"],
+    "Thickness": ["0.4-1", "1.5"],
+    "Base": ["equal", "thicker below"],
+    "Color": ["white", "yellow", "orange"],
+    "Surface": ["viscid", "slimy"]
+  },
+  "VEIL": {
+    "Type": ["single (var. speciosus)", "double-layered (var. kauffmani)"],
+    "Outer_Layer": ["evanescent", "slime"],
+    "Inner_Layer": ["fibrillose", "ring"]
+  },
+  "SPORE_PRINT": {
+    "Color": ["white"],
+    "Spores": ["8-10", "4.5-6", "microns", "elliptical", "smooth"]
+  },
+  "Gill_tissue": ["divergent"],
+  "HABITAT": ["Scattered", "densely gregarious", "woods", "bogs", "conifers", "larch", "pine", "late summer", "fall", "range", "ponderosa pine", "Southwest"],
+  "EDIBILITY": ["Edible", "haven't tried it"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["hypothejus"],
+  "Common_Name": ["Olive-Brown Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": ["2-8 cm", "broad", "convex", "broadly umbonate", "plane", "depressed", "smooth", "viscid", "slimy", "wet", "dark brown", "olive-brown", "greenish-yellow", "yellow", "young", "entirely olive-brown", "yellow-orange", "reddish-orange", "age", "margin"],
+  "Flesh": ["thin", "yellowish", "whitish"],
+  "Odor": ["mild"],
+  "GILLS": ["decurrent", "adnate", "well-spaced", "thick", "soft", "waxy", "pallid", "pale yellow", "brightly colored", "margin"],
+  "STALK": ["5-15 cm", "long", "0.5-1.5 cm", "thick", "equal", "tapered downward", "yellow", "apex", "pallid", "variously colored", "viscid", "slimy", "moist"],
+  "VEIL": ["evanescent", "slime", "stalk", "obscure", "fibrillose ring"],
+  "SPORE_PRINT": ["white"],
+  "Spores": ["7-9 x 4-5 microns", "elliptical", "smooth"],
+  "Gill_tissue": ["divergent"],
+  "HABITAT": ["Scattered", "gregarious", "troops", "conifers", "pine", "widely distributed", "abundant", "cool weather", "late fall", "early spring", "coastal pine forests"],
+  "EDIBILITY": ["Bountiful", "bland", "H. sordidus"]
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["olivaceoalbus"],
+  "Common_Name": ["Sheathed", "Waxy", "Cap"],
+  "Group?": ["No"],
+  "CAP": ["3-12", "cm", "broad", "convex", "umbonate", "plane", "surface", "slimy", "viscid", "moist", "dark", "brown", "nearly", "black", "center", "paler", "grayish", "olive-brown", "margin", "streaked", "appearance", "darker", "fibrils"],
+  "Flesh": ["thick", "white", "soft", "odor", "mild"],
+  "GILLS": ["adnate", "decurrent", "thick", "soft", "waxy", "pure", "white", "pallid", "grayish"],
+  "STALK": ["3", "5-12", "15", "cm", "long", "1-3", "cm", "thick", "equal", "thicker", "smooth", "white", "above", "ring", "viscid", "slimy", "moist", "below", "sheathed", "blackish", "grayish-brown", "olive-brown", "gray", "fibrils", "break", "patches", "scaly", "rings"],
+  "VEIL": ["double-layered", "outer", "layer", "evanescent", "depositing", "slime", "stalk", "inner", "layer", "fibrillose", "sometimes", "forming", "obscure", "ring", "top", "fibrillose", "sheath"],
+  "SPORE_PRINT": ["white", "spores", "9-12", "x", "5-6", "microns", "elliptical", "smooth"],
+  "Gill_tissue": ["divergent"],
+  "HABITAT": ["Solitary", "scattered", "groups", "ground", "conifers", "spruce", "western", "northern", "North", "America", "fruiting", "late", "summer", "early", "winter", "seen", "northern", "California", "Sitka", "spruce", "southern", "Rocky", "Mountains", "Engelmann", "spruce", "blue", "spruce"],
+  "EDIBILITY": ["Said", "edible", "bland", "slimy"]
+},
+
+{
+  "Genus": "Hygrophorus",
+  "Species": "agathosmus",
+  "Common_Name": "Gray Almond Waxy Cap",
+  "Group?": "No",
+  "CAP": {
+    "Size": "3-10 cm broad",
+    "Shape": "convex to plane or with margin uplifted",
+    "Surface": "smooth",
+    "Texture": "viscid when moist",
+    "Color": "dull gray to ashy-gray, brownish-gray, or at times grayish-olive",
+    "Margin": "incurved at first"
+  },
+  "Flesh": {
+    "Texture": "soft",
+    "Color": "whitish"
+  },
+  "Odor": {
+    "Description": "sweet, like almond extract",
+    "Note": "(but sometimes faint)"
+  },
+  "GILLS": {
+    "Attachment": "adnate to slightly decurrent",
+    "Spacing": "close or well-spaced",
+    "Texture": "soft, waxy",
+    "Color": "white or sometimes grayish in age"
+  },
+  "STALK": {
+    "Length": "4-10 (16) cm long",
+    "Thickness": "0.5-1.5 (2) cm thick",
+    "Shape": "equal or narrowed below",
+    "Surface": "smooth, not viscid",
+    "Color": "white or tinged gray"
+  },
+  "VEIL": "absent",
+  "SPORE_PRINT": {
+    "Color": "white",
+    "Spores": "7-10.5x 4.5-5.5 microns",
+    "Shape": "elliptical",
+    "Texture": "smooth"
+  },
+  "Gill_tissue": "divergent",
+  "HABITAT": "Scattered to gregarious under conifers, widely distributed and fairly common in cool weather, but rather infrequent in our area. It is partial to spruce, but is associated locally with Douglas-fir (probably because there isn't any spruce).",
+  "EDIBILITY": {
+    "Description": "Edible, but bland",
+    "Note": "It is unfortunate that it doesn't taste like it smells."
+  }
+},
+
+{
+  "Genus": ["Hygrophorus"],
+  "Species": ["calophyllus"],
+  "Common_Name": ["Gray-Brown Waxy Cap"],
+  "Group?": ["No"],
+  "CAP": ["4-11 cm", "broad", "convex", "umbonate", "plane", "smooth", "viscid", "slimy", "moist", "olive-brown", "dark gray-brown", "umber", "margin", "paler"],
+  "Flesh": ["soft", "white", "thick", "odor", "mild", "faintly fragrant"],
+  "GILLS": ["white", "flushed", "delicate pink", "well-spaced", "thick", "soft", "waxy", "decurrent"],
+  "STALK": ["5-12 cm", "long", "1-1.5 cm", "thick", "equal", "narrowed below", "smooth", "not viscid", "apex", "white", "colored", "cap", "paler"],
+  "VEIL": ["absent"],
+  "SPORE_PRINT": ["white", "spores", "5.5-8 x 4-5 microns", "elliptical", "smooth"],
+  "Gill_tissue": ["divergent"],
+  "HABITAT": ["Solitary", "small groups", "ground", "conifers", "western North America", "not common", "found once", "area", "Douglas-fir", "December"],
+  "EDIBILITY": ["Edible"]
+}
+]
